@@ -16,7 +16,7 @@ flutter run
 
 ## :memo: License
 
-This project is licensed under the MIT license. See the file [LICENSE](https://github.com/farnetani/app_theme_light_dark/blob/main/LICENSE.md) to more details.
+This project is licensed under the MIT license. See the file [LICENSE](LICENSE.md) to more details.
 
 Develop with :purple_heart: by [Arlei Ferreira Farnetani Junior](https://github.com/farnetani)
 
